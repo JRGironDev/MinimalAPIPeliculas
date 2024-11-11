@@ -1,7 +1,12 @@
 using MinimalAPIPeliculas.Entidades;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddOutputCache();
+
 var app = builder.Build();
+
+app.UseOutputCache();
 
 app.MapGet("/", () => "Hello World!");
 
@@ -15,6 +20,6 @@ app.MapGet("/generos", () =>
     };
 
     return generos;
-});
+}).CacheOutput(c => c.Expire(TimeSpan.FromSeconds(15)));
 
 app.Run();

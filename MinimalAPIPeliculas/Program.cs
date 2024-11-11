@@ -1,10 +1,19 @@
+using Microsoft.AspNetCore.Mvc;
 using MinimalAPIPeliculas.Entidades;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddOutputCache();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+if (builder.Environment.IsDevelopment())
+{
+app.UseSwagger();
+app.UseSwaggerUI();
+} 
 
 app.UseOutputCache();
 

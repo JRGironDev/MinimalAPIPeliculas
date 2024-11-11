@@ -24,3 +24,10 @@
 /Users/jquinonez/Codes/Backend/MinimalAPIPeliculas/MinimalAPIPeliculas/obj/Debug/net8.0/MinimalAPIPeliculas.pdb
 /Users/jquinonez/Codes/Backend/MinimalAPIPeliculas/MinimalAPIPeliculas/obj/Debug/net8.0/MinimalAPIPeliculas.genruntimeconfig.cache
 /Users/jquinonez/Codes/Backend/MinimalAPIPeliculas/MinimalAPIPeliculas/obj/Debug/net8.0/ref/MinimalAPIPeliculas.dll
+/Users/jquinonez/Codes/Backend/MinimalAPIPeliculas/MinimalAPIPeliculas/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/jquinonez/Codes/Backend/MinimalAPIPeliculas/MinimalAPIPeliculas/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jquinonez/Codes/Backend/MinimalAPIPeliculas/MinimalAPIPeliculas/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jquinonez/Codes/Backend/MinimalAPIPeliculas/MinimalAPIPeliculas/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jquinonez/Codes/Backend/MinimalAPIPeliculas/MinimalAPIPeliculas/obj/Debug/net8.0/MinimalAPIPeliculas.csproj.AssemblyReference.cache
+/Users/jquinonez/Codes/Backend/MinimalAPIPeliculas/MinimalAPIPeliculas/obj/Debug/net8.0/MinimalAPIPeliculas.MvcApplicationPartsAssemblyInfo.cs
+/Users/jquinonez/Codes/Backend/MinimalAPIPeliculas/MinimalAPIPeliculas/obj/Debug/net8.0/MinimalA.AC259BEC.Up2Date
